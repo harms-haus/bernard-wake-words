@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "hey burr nard",
-  "author": "Tater Totterson",
+  "wake_word": "hey bernard",
+  "author": "Blake Harms",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "hey burr nard.tflite",
+  "model": "hey_bernard.tflite",
   "trained_languages": [
     "en"
   ],
